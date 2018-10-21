@@ -6,7 +6,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
         <title>Online Bartering System</title>
     </head>
-    <body><center>
+    <body>
         <div class="container">
             <div class ="jumbotron">
             <h1>Welcome to the Online Bartering System</h1>
@@ -683,7 +683,7 @@ if(($purch_pow=="low") && $cost_cal==4 && $demand=="low" && $market=="low")
 }   
 
 
-echo '<br><br><br><i>THE END</i></center>'
+echo '<br><br><br><i>THE END</i>'
 ?>
         </div>
         </div>
