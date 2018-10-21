@@ -8,6 +8,7 @@
     </head>
     <body><center>
         <div class="container">
+            <div class ="jumbotron">
             <h1>Welcome to the Online Bartering System</h1>
             <h3>Here is the conversation</h3><br>
     
@@ -684,6 +685,7 @@ if(($purch_pow=="low") && $cost_cal==4 && $demand=="low" && $market=="low")
 
 echo '<br><br><br><i>THE END</i></center>'
 ?>
+        </div>
         </div>
     </body>
 </html>
